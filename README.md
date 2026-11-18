@@ -1,13 +1,9 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello,
 
-I am a data scientist and Python person focusing on NLP projects. 
+I'm Atilla, a data scientist and engineer in London. I like small tools that do one thing well, and these days I build them in the open at [blipbox](https://blipbox.io).
 
-Here is something about me:
+- **[sluggi](https://github.com/blip-box/sluggi)** turns any text into a clean, URL-safe slug.
+- **[confusable](https://github.com/blip-box/confusable)** tells you when a name only looks like another one.
+- **[guild](https://github.com/blip-box/guild)** lets agents do the routine upkeep of a library while people keep the decisions.
 
-- 🔭 I’m currently working on interesting ML projects, mostly NLP ones and beautiful infographics.
-- 🌱 I’m currently learning efficient Kubernetes.
-- 🥅 2024 Goals: Launch [qurra](https://www.qurra.app). Qurra is a semantic similarity based conversational AI app for scriptures
-- 👯 I’m looking to collaborate on conversational AI projects.
-- 💬 Ask me about Python, data science, machine learning, natural language processing and visualisations.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/atilla-guzel/) or [Twitter](https://twitter.com/atillaguzel) or [Stackoverflow](https://stackoverflow.com/users/11147295/nimbous)
-- I love [Night Owl Theme](https://github.com/sdras/night-owl-vscode-theme) and I literally use it in every possible way.
+I write about this work at [atillaguzel.github.io](https://atillaguzel.github.io/blog/). The best way to reach me is [LinkedIn](https://www.linkedin.com/in/atilla-guzel/).
